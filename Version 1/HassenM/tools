@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head> 
+    </head>
+    <body>
+            <table>
+                    <thead>
+                            <tr>
+                                <th><No.</th>
+                                <th>full N.</th>
+                                <th>position</th>
+                                <th> Salary</th>
+                            </tr>    
+                    </thead>
+
+                    <tbody>
+                        <tr>
+                                <td>1</td></td>
+                                <td>B. Gates</td>
+                                <td>Head of MS</td>
+                                <td>$1000</td>
+                        </tr>
+        
+                        <tr>
+                            <td>1</td></td>
+                            <td>S. JOBS</td>
+                            <td>Head of apple</td>
+                            <td>$1200</td>
+                    </tr>
+                    </tbody>
+            </table>
+    </body> 
+
+
+</html>
